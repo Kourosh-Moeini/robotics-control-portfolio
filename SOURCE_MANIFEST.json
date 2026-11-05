@@ -1,0 +1,671 @@
+[
+  {
+    "file": "01_Wrench_DDPG_PID/code/Wrench_DDPG_Training_Extract.ipynb",
+    "source_name": "Main Code-1000 eps.ipynb",
+    "sha256": "d82bbb1cee3d3f01761f332fe6aed603735f8294b171e8b330bd64571af684fc",
+    "method": "selected original notebook cells; outputs/metadata removed; execution cells shown as text",
+    "original_cell_indices": [
+      2,
+      5,
+      8,
+      10,
+      12,
+      18,
+      20,
+      22
+    ]
+  },
+  {
+    "file": "01_Wrench_DDPG_PID/code/Hybrid_PID_Evaluation_Extract.ipynb",
+    "source_name": "Comparision-All.ipynb",
+    "sha256": "92dc456b374fa497715c00b6c5e60d07a9cca7c7f6f9565c9dc4fa82465bf658",
+    "method": "selected original notebook cells; outputs/metadata removed; execution cells shown as text",
+    "original_cell_indices": [
+      2,
+      6,
+      9,
+      11,
+      13,
+      16
+    ],
+    "previous_export_sha256": "9aa9a33cb6dcf5e50b2d681e6267a179aa1aaf2b6cf2d46aa8c76ffc3943c831",
+    "serialization_note": "Current local notebook JSON formatting/metadata retained; source cells unchanged versus the previous portfolio ZIP."
+  },
+  {
+    "file": "01_Wrench_DDPG_PID/code/policy_networks.py",
+    "source_name": "Main Code-1000 eps.ipynb",
+    "sha256": "6ab71d7a637d04209732a4ddaac070157cdfa1c434ba2d72ea4eabde18466a2e",
+    "method": "original network/replay definitions extracted; CPU default; no training launch",
+    "original_cell_indices": [
+      8,
+      10,
+      12
+    ]
+  },
+  {
+    "file": "01_Wrench_DDPG_PID/code/reference/Environment_Static.py",
+    "source_name": "Environment_Static.py",
+    "sha256": "ac3288ed10e5aa4615f64baa761b531c6815475c26cf5928dca1e242eab45238",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "01_Wrench_DDPG_PID/code/reference/Environment_Dynamic.py",
+    "source_name": "Environment_Dynamic.py",
+    "sha256": "62cb43eda70b0e05b2e16f950d43d68a42c7ee9db23d7d52fb4d39eecc6b7644",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "01_Wrench_DDPG_PID/code/matlab_reference/Simulation.m",
+    "source_name": "Simulation.m",
+    "sha256": "60e5ca833a370676de51e0391451e499d5f8ac309ccad17e0ec2258e74407a82",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "01_Wrench_DDPG_PID/code/matlab_reference/odes.m",
+    "source_name": "odes.m",
+    "sha256": "6cd56d76334b72818d5b4a4ae275227ab62a94fadf4a81a582db2a39a6d7ee17",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "01_Wrench_DDPG_PID/code/matlab_reference/parameters.m",
+    "source_name": "parameters.m",
+    "sha256": "fe0ada2e846da8393141412c172d301e6800ab412bbf1c9eae8c4bcb2c3e1d8a",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "01_Wrench_DDPG_PID/code/matlab_reference/objective_func.m",
+    "source_name": "objective_func.m",
+    "sha256": "5442df1a529308b00322aeeb79a0c3f354be79a384c9b0b926cd11a3e6e88670",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "01_Wrench_DDPG_PID/media/control_loop.png",
+    "source_name": "hybrid_control_loop.png",
+    "sha256": "ace4744c3977ed0856d725067492e374d4cacf621db1391e123b5a81e0a2f098",
+    "method": "unchanged copy"
+  },
+  {
+    "file": "01_Wrench_DDPG_PID/media/paper_tracking_comparison.png",
+    "source_name": "tracking_results.png",
+    "sha256": "49dd31976010fe13efe104f3521d96875fbac0a44b6ba7aafb4590236baa1bca",
+    "method": "unchanged copy"
+  },
+  {
+    "file": "01_Wrench_DDPG_PID/paper/Accepted_Hybrid_DDPG_PID_Manuscript.pdf",
+    "source_name": "Approved_2026418808.pdf",
+    "sha256": "46066581c0af99534075f560078acf6c31a819980572da11b09a937b7be43e03",
+    "method": "unchanged copy"
+  },
+  {
+    "file": "02_PINN_Catheter_Modelling/paper/Accepted_Data_Free_Static_PINN_Manuscript.pdf",
+    "source_name": "A Data-Free PINN Framework for Static Modeling.pdf",
+    "sha256": "85d9a91428cf6859a04df62c67a108e18bf07bd11ec6923c3ef38fd451deced3",
+    "method": "unchanged copy"
+  },
+  {
+    "file": "03_External_Magnet_Control_10Hz/code/Magnet_Control_10Hz_Extract.ipynb",
+    "source_name": "Main Code-500 eps-10 HZ.ipynb",
+    "sha256": "7a5dee7ea50028ca96aaf3844c28e07e8bf52a119022b4032900fa6188758b88",
+    "method": "selected original notebook cells; outputs/metadata removed; execution cells shown as text",
+    "original_cell_indices": [
+      2,
+      4,
+      7,
+      9,
+      11,
+      18,
+      20,
+      22
+    ]
+  },
+  {
+    "file": "03_External_Magnet_Control_10Hz/code/policy_networks.py",
+    "source_name": "Main Code-500 eps-10 HZ.ipynb",
+    "sha256": "c5ad4a659dd17c698b2056f1e12080b07b6220a29999332d48b4aa4e5b90ea37",
+    "method": "original network/replay definitions extracted; CPU default; no training launch",
+    "original_cell_indices": [
+      7,
+      9,
+      11
+    ]
+  },
+  {
+    "file": "03_External_Magnet_Control_10Hz/code/reference/Environment.py",
+    "source_name": "Environment.py",
+    "sha256": "1e4c5063abef65ca463594b182a95d470fd5f6685f274685da65912bcb80e48a",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "03_External_Magnet_Control_10Hz/code/matlab_reference/Simulation.m",
+    "source_name": "Simulation.m",
+    "sha256": "28de8e66e098a8672f0d2bab1b7ec4c8626676195fce1a9dd3c36c374bfb036f",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "03_External_Magnet_Control_10Hz/code/matlab_reference/parameters.m",
+    "source_name": "parameters.m",
+    "sha256": "15454e401817a66a430f6a0f917e59ddbba049bfea08c6a52019e96688d9f081",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "03_External_Magnet_Control_10Hz/code/matlab_reference/odes.m",
+    "source_name": "odes.m",
+    "sha256": "5786b68e5c2aafa76a041aabe75a2d3bc1848c632bae664c653274080ba2f28c",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "03_External_Magnet_Control_10Hz/code/matlab_reference/force_torque.m",
+    "source_name": "force_torque.m",
+    "sha256": "4b582fa82b803f36cf7ff8d4aeb1d34f6aeb0c5e7f3477d21acbb771757f6209",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "03_External_Magnet_Control_10Hz/code/matlab_reference/local_global.m",
+    "source_name": "local_global.m",
+    "sha256": "fac0d483ffeedb0aa82e36f04e31c59f98bb361aa0fc4575ea94d987c35d8737",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "03_External_Magnet_Control_10Hz/code/matlab_reference/mag_parameters.m",
+    "source_name": "mag_parameters.m",
+    "sha256": "2d7569897ec49e505fbc2991356e79fe9c7a13b6d0367cdd5478f550fe41c2de",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "03_External_Magnet_Control_10Hz/code/matlab_reference/RK4.m",
+    "source_name": "RK4.m",
+    "sha256": "1db91e526828cd63ae11c4a226568b45b7fa4a8c67d1ff1f53e78a26ec43cb87",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "03_External_Magnet_Control_10Hz/code/matlab_reference/objective_func.m",
+    "source_name": "objective_func.m",
+    "sha256": "cca572f02a5c80ab3e298f624f97e744822d526fd8c0ea7914e986c4ab9c95ab",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "03_External_Magnet_Control_10Hz/media/tip_spiral_tracking.png",
+    "source_name": "2dof_spiral_tracking.png",
+    "sha256": "f1611e6735834a2d19ec8e52ba95a96c505dedf442b815c887855ff98e5d398c",
+    "method": "unchanged copy"
+  },
+  {
+    "file": "03_External_Magnet_Control_10Hz/media/external_magnet_simulation_10Hz.mp4",
+    "source_name": "Test_Best_Spiral_setup.mp4",
+    "sha256": "3833f4eb2a2afd97dbc4faaa4f589d609f648d453aa421f209010f068042f95b",
+    "method": "unchanged copy"
+  },
+  {
+    "file": "04_Experimental_Transfer_Online_Tuning/code/reference/Experiment_Environment.py",
+    "source_name": "Experiment_Environment.py",
+    "sha256": "52097b3de0a5d6b697329476d06986cde1b87d3cd3d719b57dec651ecbf31222",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "04_Experimental_Transfer_Online_Tuning/code/reference/Transforms.py",
+    "source_name": "Transforms.py",
+    "sha256": "8ad63d2fd253fe3cf21bf1e66b66d3b01728e84ecc62543967cb90831a7a4030",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "04_Experimental_Transfer_Online_Tuning/media/physical_setup_demonstration_accelerated.mp4",
+    "source_name": "Exp-Setup-Test-trimmed-fast.mp4",
+    "sha256": "707c3f0a4493c47f438f3a2716a1a4d3b8352624552b44ca37cb0cba9905cbf5",
+    "method": "unchanged copy"
+  },
+  {
+    "file": "04_Experimental_Transfer_Online_Tuning/media/experimental_setup.png",
+    "source_name": "Experimental_Setup.png",
+    "sha256": "73a7f21a94b37a19970e1687758c49c0e2aa2832a281af3e9be57eb70416a0eb",
+    "method": "unchanged copy"
+  },
+  {
+    "file": "04_Experimental_Transfer_Online_Tuning/media/thesis_chapter_spiral_comparison.png",
+    "source_name": "Spiral_compare.png",
+    "sha256": "a8c3c548c394b24126ddda5404c4167506970ca1df8c1d4c8dd9ca47abb4118d",
+    "method": "unchanged copy"
+  },
+  {
+    "file": "04_Experimental_Transfer_Online_Tuning/media/thesis_chapter_learning_curves.png",
+    "source_name": "learning_curves.png",
+    "sha256": "682e3a64a12d2665faa96bf8ccecd984ad9fcdbb04d6a6c8b6953bdc7fc181cc",
+    "method": "unchanged copy"
+  },
+  {
+    "file": "05_Five_DOF_Tip_Control/code/Five_DOF_Final_2000_Episode_Extract.ipynb",
+    "source_name": "Main Code-2000 eps-min v w-Rand-cube-13.ipynb",
+    "sha256": "20b868cef27e2c3aec82cf3b2c73fddf7ec5bc10b4faa1ad11cd550176b24767",
+    "method": "selected original notebook cells; outputs/metadata removed; execution cells shown as text",
+    "original_cell_indices": [
+      2,
+      4,
+      7,
+      9,
+      11,
+      18,
+      20,
+      22
+    ],
+    "previous_export_sha256": "ea732533f2567c371af39f9fc54e9ddd2e5a09dabfef958dc600d21aecfb4067",
+    "serialization_note": "Current local notebook JSON formatting/metadata retained; source cells unchanged versus the previous portfolio ZIP."
+  },
+  {
+    "file": "05_Five_DOF_Tip_Control/code/policy_networks.py",
+    "source_name": "Main Code-2000 eps-min v w-Rand-cube-13.ipynb",
+    "sha256": "c5ad4a659dd17c698b2056f1e12080b07b6220a29999332d48b4aa4e5b90ea37",
+    "method": "original network/replay definitions extracted; CPU default; no training launch",
+    "original_cell_indices": [
+      7,
+      9,
+      11
+    ]
+  },
+  {
+    "file": "05_Five_DOF_Tip_Control/code/reference/Environment_data.py",
+    "source_name": "Environment_data.py",
+    "sha256": "e53a8ac53e583d21272f86545d0855cfbfd79e28e2e6b0009232af93d7aa5464",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "05_Five_DOF_Tip_Control/code/reference/Angular_calculus.py",
+    "source_name": "Angular_calculus.py",
+    "sha256": "28c4f55de5031eaaff82086b18ac257cd2c249f7e112f419a55577b5dfaad4b5",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "05_Five_DOF_Tip_Control/code/matlab_reference/Simulation.m",
+    "source_name": "Simulation.m",
+    "sha256": "dc65a1d3179fbd3b41e52720e7b093fb0fbd352e47d295f6b3ad6ee0581d19a1",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "05_Five_DOF_Tip_Control/code/matlab_reference/parameters.m",
+    "source_name": "parameters.m",
+    "sha256": "e0eca8819871943f1f2b761e61f42f126b52826c3fba9d95ccd521a6f0c931d2",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "05_Five_DOF_Tip_Control/code/matlab_reference/odes.m",
+    "source_name": "odes.m",
+    "sha256": "fd2e3127ebc6471edc95bceb847fbe1571715a31dc06864b31ba86772e9d38ab",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "05_Five_DOF_Tip_Control/code/matlab_reference/force_torque.m",
+    "source_name": "force_torque.m",
+    "sha256": "c5af27b119b3e4ad09647025336008d89d5ab080c0e0789de136bb36788b2743",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "05_Five_DOF_Tip_Control/code/matlab_reference/local_global.m",
+    "source_name": "local_global.m",
+    "sha256": "c427b8e184bf43e858b89bb3439be5e4bead5436db3b5ed521a7da13de944dbb",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "05_Five_DOF_Tip_Control/code/matlab_reference/mag_parameters.m",
+    "source_name": "mag_parameters.m",
+    "sha256": "2d7569897ec49e505fbc2991356e79fe9c7a13b6d0367cdd5478f550fe41c2de",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "05_Five_DOF_Tip_Control/code/matlab_reference/objective_func.m",
+    "source_name": "objective_func.m",
+    "sha256": "6ff046c99451fe8577a1eb8f845a4a1b589c3b7af59e9900af9fd7a258485349",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "05_Five_DOF_Tip_Control/code/matlab_reference/my_quat2rotm.m",
+    "source_name": "my_quat2rotm.m",
+    "sha256": "4f93be1710d1705095c9e7de38ed7673c79ac0ba8824dfa6f56bb7f71a5b5a13",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "05_Five_DOF_Tip_Control/code/matlab_reference/bvp_solver_bvp4c.m",
+    "source_name": "bvp_solver_bvp4c.m",
+    "sha256": "27d17b760e0e7a01a1bbb67e17683da0e3184a919945a3e5729df0afc058e09e",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "05_Five_DOF_Tip_Control/code/matlab_reference/cuboid_analytical_B_and_Grad.m",
+    "source_name": "cuboid_analytical_B_and_Grad.m",
+    "sha256": "91f8f587f91f93d07417fae15430469613a36f2ce688803104f56a9c02de8116",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "05_Five_DOF_Tip_Control/media/final_run_learning_curves.png",
+    "source_name": "thesis_fig1_learning_curves.png",
+    "sha256": "cfba222757c135b57e53b4043232eae38725f5bb33ac41a5851c757beb6d1da7",
+    "method": "unchanged copy"
+  },
+  {
+    "file": "05_Five_DOF_Tip_Control/media/tip_position_direction_reaching.png",
+    "source_name": "Attraction target reaching control.png",
+    "sha256": "82588022c2989763a6a32ba621ddd9cf80485fc8f76dbfd57654968259d02bda",
+    "method": "unchanged copy"
+  },
+  {
+    "file": "05_Five_DOF_Tip_Control/media/five_DOF_tip_tracking.mp4",
+    "source_name": "Test_Best_Spiral_setup.mp4",
+    "sha256": "e381fbcec040ed6004e968f4c18164ee61e5531f731b869aa87db2b3917cfc07",
+    "method": "unchanged copy"
+  },
+  {
+    "file": "06_Agentic_Control_Benchmarks/code/public_training_example/tests/test_scenarios.py",
+    "source_name": "test_scenarios.py",
+    "sha256": "16e7352f7881903a3cc2b074a922adf378ac7ff9621e0c25d231e693fdff9bd4",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "06_Agentic_Control_Benchmarks/code/public_training_example/tests/test_randomness.py",
+    "source_name": "test_randomness.py",
+    "sha256": "7543d567809bfb4231277f16266144cbf91bb634a797c0674965db9dbbb4029f",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "06_Agentic_Control_Benchmarks/code/public_training_example/reports/plant_complexity.py",
+    "source_name": "plant_complexity.py",
+    "sha256": "aff0801bc4a39777e95d23fd15626c296bdd2b1993df567d397bd20bff33c074",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "06_Agentic_Control_Benchmarks/code/public_training_example/SAVED_REPORT.md",
+    "source_name": "report.md",
+    "sha256": "4932433696e52307bf56942a94dd99ce854db5b9bb897bb2fe3625f02c6eed5c",
+    "method": "unchanged copy"
+  },
+  {
+    "file": "06_Agentic_Control_Benchmarks/media/saved_sysid_verification_comparison.png",
+    "source_name": "verification_mse_comparison.png",
+    "sha256": "6034b513a9fe2ee8f4655ecf084e99245d7ce8bb7017e8d55eb242107f7c23c1",
+    "method": "unchanged copy"
+  },
+  {
+    "file": "06_Agentic_Control_Benchmarks/media/saved_first_order_validation_RMSE.png",
+    "source_name": "first_order_rmse_comparison.png",
+    "sha256": "e432831cfc1159c1f2a04131cd942dce3a9207cbcaaea3e6a85c886877782f4a",
+    "method": "unchanged copy"
+  },
+  {
+    "file": "07_SOFA_Catheter_Simulation/code/dynamic_magnet_example/mode.py",
+    "source_name": "mode.py",
+    "sha256": "468a409da6f22b9a60ba9c47875643b14821a4af1b69402a2e09a24a22c0571a",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "07_SOFA_Catheter_Simulation/code/dynamic_magnet_example/utils/magnetic_model.py",
+    "source_name": "magnetic_model.py",
+    "sha256": "15fd1d05cbe4acfb528fe7184e9f4abaa680cc89ded5d5935fb8e3a73f991e57",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "07_SOFA_Catheter_Simulation/code/dynamic_magnet_example/utils/mag_parameters.py",
+    "source_name": "mag_parameters.py",
+    "sha256": "cbd1153b6b2734d0603fe8191ab9740a1524c85264fb02a3e066fa93c917fe97",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "07_SOFA_Catheter_Simulation/code/dynamic_magnet_example/utils/main_code.py",
+    "source_name": "main_code.py",
+    "sha256": "0652d4c3b3003933abe5157e7b4760d182b4494b048c46183c1182a97add57e7",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "07_SOFA_Catheter_Simulation/code/dynamic_magnet_example/utils/parameters.py",
+    "source_name": "parameters.py",
+    "sha256": "5d8e31fb2be0c08233e248d3af90be7abcb99fc883df1e56386e5339e12c21ea",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "07_SOFA_Catheter_Simulation/code/dynamic_magnet_example/utils/paths.py",
+    "source_name": "paths.py",
+    "sha256": "466409d6db4a5ee454f55c74a699c548b87fd3ebb2aace7d37e5b7e14ced18d4",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "07_SOFA_Catheter_Simulation/code/dynamic_magnet_example/utils/sofa_model.py",
+    "source_name": "sofa_model.py",
+    "sha256": "6d4fa3754dd26263281cee3933d8d01bca10dea3676caf6c3f5bed6ca2edcd06",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "07_SOFA_Catheter_Simulation/code/dynamic_magnet_example/utils/trajectory.py",
+    "source_name": "trajectory.py",
+    "sha256": "373082aa31b23bd38669fd2c2b1d23f49af9ab7dde9b4867faf41163c359f9f3",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "07_SOFA_Catheter_Simulation/code/dynamic_magnet_example/utils/visualization.py",
+    "source_name": "visualization.py",
+    "sha256": "609df009d9de721884da6dbe21f6f48d185fd9b7e2298e6f47bc2c664a6a03d5",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "07_SOFA_Catheter_Simulation/code/dynamic_magnet_example/utils/__init__.py",
+    "source_name": "__init__.py",
+    "sha256": "9baae56e021e25e3f7872947f93b10aa36c8b602d3679d5ac52c7bc817d04ecf",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "07_SOFA_Catheter_Simulation/code/dynamic_magnet_example/tests/test_magnetic_model.py",
+    "source_name": "test_magnetic_model.py",
+    "sha256": "6372283c2e21865c2c7ca3cd7ffa7ea54f6a7382e3c0d8d2eb51fb9ef09faa63",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "07_SOFA_Catheter_Simulation/code/dynamic_magnet_example/tests/test_dynamic_inputs.py",
+    "source_name": "test_dynamic_inputs.py",
+    "sha256": "8a2c2282f11c4066f2f5344ef75469c374ba6acb9afdc814a3e8ac68d6fa36dd",
+    "method": "source copy; workstation paths normalised; research equations unchanged"
+  },
+  {
+    "file": "07_SOFA_Catheter_Simulation/media/SOFA_dynamic_magnet_spiral.mp4",
+    "source_name": "SOFA_DynamicMagnet_PDMS2_Spiral_Set3_0.20_0.10_3D.mp4",
+    "sha256": "013ffe41030cc6d6dc6381f00cb8f083037bbe80987533457e85997eade84e5f",
+    "method": "unchanged copy"
+  },
+  {
+    "file": "07_SOFA_Catheter_Simulation/media/SOFA_dynamic_magnet_step.mp4",
+    "source_name": "SOFA_DynamicMagnet_PDMS2_Step_Set3_0.20_0.10_3D.mp4",
+    "sha256": "b565d763696d55973e5b1816ee9dea1b1d0d25bc5c0ac13dccf08f3b903ca0b7",
+    "method": "unchanged copy"
+  },
+  {
+    "file": "07_SOFA_Catheter_Simulation/media/SOFA_saved_dynamic_response.png",
+    "source_name": "SOFA_DynamicMagnet_PDMS2_Spiral_Set3_0.20_0.10_tip_and_wrench.png",
+    "sha256": "e8ec4061936976bb4d904994fed6b5c2a997a1899e61fde0113448d460bd7bf4",
+    "method": "unchanged copy"
+  },
+  {
+    "file": "04_Experimental_Transfer_Online_Tuning/code/Online_Fine_Tuning_Thesis_Matched_Extract.ipynb",
+    "source_name": "Experiment_Fine Tune.ipynb",
+    "sha256": "1d6acfdf9ce471959f0d173fb6d42c144771772c10d074e06bbada9c256ee407",
+    "method": "selected original notebook cells; outputs/metadata removed; execution cells shown as text",
+    "original_cell_indices": [
+      2,
+      7,
+      9,
+      11,
+      20,
+      22,
+      23,
+      24,
+      27
+    ],
+    "previous_export_sha256": "c6b3325f56e641b7118b1a20b5cca11e784b30ad4851ad9bb716031b0a576d9a",
+    "serialization_note": "Current local notebook JSON formatting/metadata retained; source cells unchanged versus the previous portfolio ZIP."
+  },
+  {
+    "file": "04_Experimental_Transfer_Online_Tuning/code/Base_vs_Tuned_Thesis_Matched_Extract.ipynb",
+    "source_name": "Comparisions-Fine Tune.ipynb",
+    "sha256": "cad41c45e26478be587ae39aeadba476ed26dab608a68500165943598d256c23",
+    "method": "selected original notebook cells; outputs/metadata removed; execution cells shown as text",
+    "original_cell_indices": [
+      2,
+      8,
+      14,
+      17,
+      21,
+      23
+    ],
+    "previous_export_sha256": "23e53ef3494ffaf0e73c690a60f3ed1cc2182918d862cc6e39b559f3913ed6f8",
+    "serialization_note": "Current local notebook JSON formatting/metadata retained; source cells unchanged versus the previous portfolio ZIP."
+  },
+  {
+    "file": "04_Experimental_Transfer_Online_Tuning/code/policy_networks.py",
+    "source_name": "Experiment_Fine Tune.ipynb",
+    "sha256": "c5ad4a659dd17c698b2056f1e12080b07b6220a29999332d48b4aa4e5b90ea37",
+    "method": "original network/replay definitions extracted; CPU default; no training launch",
+    "original_cell_indices": [
+      7,
+      9,
+      11
+    ]
+  },
+  {
+    "file": "04_Experimental_Transfer_Online_Tuning/media/thesis_chapter_square_comparison.png",
+    "source_name": "Square_compare.png",
+    "sha256": "b51c0c120bb62b6a74092b2eee92329bd873801908e29f7bf7cfd2cef929fdfa",
+    "method": "unchanged copy"
+  },
+  {
+    "file": "07_SOFA_Catheter_Simulation/code/dynamic_magnet_example/mode.ipynb",
+    "source_name": "mode.ipynb",
+    "sha256": "941fc6d23171378ff93eb0c6ae2b90ba74d5e919b4b5762c7b027ac82e2ae5c3",
+    "method": "SOFA walkthrough; outputs/counts/widget metadata removed; project-root selection adapted to exported folder; simulation unchanged"
+  },
+  {
+    "file": "01_Wrench_DDPG_PID/media/hybrid_wrench_infinity_tracking.mp4",
+    "source_name": "DRL_PID_Inf_main.mp4",
+    "sha256": "2374072855c5a7c2aa8da9e2f2f44a56ba1b91a84bd6e23f1e1f4e8141fe0824",
+    "method": "unchanged original media copy",
+    "controller": "DDPG + PID feedback",
+    "trajectory": "Inf",
+    "condition": "no_disturbance",
+    "source_relative_to_trial": "Renders/DRL_PID-Pos Corr/Test/no_disturbance/DRL_PID_Inf_main.mp4",
+    "associated_notebook": "Main Code-RL PID-Pos Corr.ipynb",
+    "caption": "Hybrid DDPG + PID: actual and target tip paths"
+  },
+  {
+    "file": "01_Wrench_DDPG_PID/media/hybrid_wrench_infinity_simulation_3D.mp4",
+    "source_name": "DRL_PID_Inf_setup.mp4",
+    "sha256": "a891ee9add1636501c59f99deb39e4ac8cd5e81210e54d1892ec5e5fb3ecf2d6",
+    "method": "unchanged original media copy",
+    "controller": "DDPG + PID feedback",
+    "trajectory": "Inf",
+    "condition": "no_disturbance",
+    "source_relative_to_trial": "Renders/DRL_PID-Pos Corr/Test/no_disturbance/DRL_PID_Inf_setup.mp4",
+    "associated_notebook": "Main Code-RL PID-Pos Corr.ipynb",
+    "caption": "Hybrid DDPG + PID: three-dimensional catheter simulation"
+  },
+  {
+    "file": "06_Agentic_Control_Benchmarks/media/mpc_score6_dashboard.png",
+    "source_name": "mpc_dashboard_success_rate_6.png",
+    "sha256": "1feb5c525b109f5ff91aeeb74e223e17368debc3675864f6a7f89fe11f67f403",
+    "method": "unchanged original media copy",
+    "module": "MPC",
+    "source_plot_run": "2026-10-18_12h",
+    "source_relative_to_benchmarks": "MPC/plots/2026-10-18_12h/dashboard/mpc_dashboard_success_rate_6.png",
+    "caption": "MPC: saved comparison score, token usage and estimated run cost",
+    "width": 6327,
+    "height": 2102
+  },
+  {
+    "file": "06_Agentic_Control_Benchmarks/media/mpc_score6_seed_variability.png",
+    "source_name": "success_rate_6_seed_quartiles.png",
+    "sha256": "27ecec002d619f87c5faf2b15058da69ea274b4cd7ec477b75ec0e2828ac0351",
+    "method": "unchanged original media copy",
+    "module": "MPC",
+    "source_plot_run": "2026-10-18_12h",
+    "source_relative_to_benchmarks": "MPC/plots/2026-10-18_12h/dashboard/seed_statistics/success_rate_6_seed_quartiles.png",
+    "caption": "MPC: score variation across seeds (quartiles, median, mean and range)",
+    "width": 7942,
+    "height": 2668
+  },
+  {
+    "file": "06_Agentic_Control_Benchmarks/media/mpc_two_link_manipulator_states.png",
+    "source_name": "test_1_states_vs_time.png",
+    "sha256": "e250f47e03f4e71ee62f7b7c8a6c48a3b84fe78a9e378a324fa98aa72d1b4777",
+    "method": "unchanged original media copy",
+    "module": "MPC",
+    "source_plot_run": "2026-10-18_12h",
+    "source_relative_to_benchmarks": "MPC/plots/2026-10-18_12h/gpt-4.1-nano/seed42/TwoLinkManipulator/test_1_states_vs_time.png",
+    "caption": "MPC: two-link manipulator state regulation — GPT-4.1 Nano, seed 42",
+    "width": 2323,
+    "height": 2103
+  },
+  {
+    "file": "06_Agentic_Control_Benchmarks/media/mpc_two_link_manipulator_inputs.png",
+    "source_name": "test_1_inputs_vs_time.png",
+    "sha256": "b29ac2d6739c3803ac82ac22419a80094bc5e52323f9b3442d15ba8a6248c17c",
+    "method": "unchanged original media copy",
+    "module": "MPC",
+    "source_plot_run": "2026-10-18_12h",
+    "source_relative_to_benchmarks": "MPC/plots/2026-10-18_12h/gpt-4.1-nano/seed42/TwoLinkManipulator/test_1_inputs_vs_time.png",
+    "caption": "MPC: corresponding joint control inputs and bounds — GPT-4.1 Nano, seed 42",
+    "width": 2323,
+    "height": 1203
+  },
+  {
+    "file": "06_Agentic_Control_Benchmarks/media/adaptive_score6_dashboard.png",
+    "source_name": "adaptive_dashboard_success_rate_6.png",
+    "sha256": "a9144fef1c981d5224ce9677005431d6611a2ddca3ec7aa944be26616a1e23f9",
+    "method": "unchanged original media copy",
+    "module": "Adaptive",
+    "source_plot_run": "2026-10-17_17h",
+    "source_relative_to_benchmarks": "Adaptive/plots/2026-10-17_17h/dashboard/adaptive_dashboard_success_rate_6.png",
+    "caption": "Adaptive: saved comparison score, token usage and estimated run cost",
+    "width": 5572,
+    "height": 2102
+  },
+  {
+    "file": "06_Agentic_Control_Benchmarks/media/adaptive_score6_seed_variability.png",
+    "source_name": "success_rate_6_seed_statistics.png",
+    "sha256": "2d4a7793493e91973b27f134c682e07b7d0eabb6da4d5a09ceb00753eb2fca88",
+    "method": "unchanged original media copy",
+    "module": "Adaptive",
+    "source_plot_run": "2026-10-17_17h",
+    "source_relative_to_benchmarks": "Adaptive/plots/2026-10-17_17h/dashboard/seed_statistics/success_rate_6_seed_statistics.png",
+    "caption": "Adaptive: score means and sample standard deviations across seeds",
+    "width": 6998,
+    "height": 2668
+  },
+  {
+    "file": "06_Agentic_Control_Benchmarks/media/adaptive_two_link_manipulator_states.png",
+    "source_name": "test_1_states_vs_time.png",
+    "sha256": "634987525b74b1e6e75d0b4ef76fa5f67847080bdd672d866881631e440c11b7",
+    "method": "unchanged original media copy",
+    "module": "Adaptive",
+    "source_plot_run": "2026-10-17_17h",
+    "source_relative_to_benchmarks": "Adaptive/plots/2026-10-17_17h/gpt-4.1-nano/seed42/TwoLinkManipulator/test_1_states_vs_time.png",
+    "caption": "Adaptive: two-link manipulator state regulation — GPT-4.1 Nano, seed 42",
+    "width": 2323,
+    "height": 2103
+  },
+  {
+    "file": "06_Agentic_Control_Benchmarks/media/adaptive_two_link_manipulator_inputs.png",
+    "source_name": "test_1_inputs_vs_time.png",
+    "sha256": "62576fea02a23b358f48548865b235d15326e19777653ad27dce5bc735d4dea8",
+    "method": "unchanged original media copy",
+    "module": "Adaptive",
+    "source_plot_run": "2026-10-17_17h",
+    "source_relative_to_benchmarks": "Adaptive/plots/2026-10-17_17h/gpt-4.1-nano/seed42/TwoLinkManipulator/test_1_inputs_vs_time.png",
+    "caption": "Adaptive: corresponding joint control inputs — GPT-4.1 Nano, seed 42",
+    "width": 2323,
+    "height": 1203
+  },
+  {
+    "file": "01_Wrench_DDPG_PID/media/hybrid_wrench_infinity_tracking_preview.png",
+    "source_name": "DRL_PID_Inf_main.mp4",
+    "sha256": "1fa057d7575b68dd8a5de959c010cd1ae72aed2240e688cc356d2dad273d9f54",
+    "method": "unaltered video frame extracted using FFmpeg for the HTML poster",
+    "timestamp_seconds": 15.7985
+  },
+  {
+    "file": "01_Wrench_DDPG_PID/media/hybrid_wrench_infinity_simulation_3D_preview.png",
+    "source_name": "DRL_PID_Inf_setup.mp4",
+    "sha256": "aaae9e71c6d7bd80bf65d1e3ddf6c44e739aa7686bcb2833d1780cdaeb46c43d",
+    "method": "unaltered video frame extracted using FFmpeg for the HTML poster",
+    "timestamp_seconds": 4.7595
+  }
+]

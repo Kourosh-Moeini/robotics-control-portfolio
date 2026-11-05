@@ -1,0 +1,3 @@
+numpy
+matplotlib
+# Install SOFA, SofaPython3 and BeamAdapter separately; set SOFA_ROOT.

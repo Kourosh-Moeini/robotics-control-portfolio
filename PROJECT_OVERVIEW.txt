@@ -1,0 +1,38 @@
+KOUROSH MOEINI — SELECTED ROBOTICS AND CONTROL WORK
+
+I am a mechatronics engineer based in Novi Sad, Serbia. My main research has been in learning-based control of soft magnetic catheters: building simulation workflows, training policies, comparing controllers and bringing a trained policy to a physical experimental setup.
+
+This is a small selection of that work, rather than my complete university or team repositories. It includes short source extracts, existing figures, two accepted manuscripts and selected videos. I have kept the projects separate so their models, control objectives and evidence are easy to follow. The excerpts show the main ideas and my contributions; full datasets, calibration files, training histories, checkpoints and company/team implementations are not all provided.
+
+1. WRENCH CONTROL WITH DDPG AND PID
+I linked Python/PyTorch learning code to a MATLAB Cosserat catheter model to learn a tip-position-to-wrench mapping. I evaluated a hybrid learned-policy/PID controller against standalone controllers on trajectory tracking, speed changes and disturbances. My paper, “Hybrid Deep Reinforcement Learning and PID Control for Robust Magnetic Catheter Tip Tracking”, has been accepted for ICBME; IEEE publication is forthcoming.
+
+2. PHYSICS-INFORMED CATHETER MODELLING
+I have worked on PINN-based catheter simulation and co-authored “A Data-Free PINN Framework for Static Modeling of Magnetically Steered Catheters”, also accepted for ICBME with IEEE publication forthcoming. The paper builds physical equations and boundary conditions into model training. The final implementation is not on this laptop. This folder therefore contains the accepted manuscript and explanation only; no other notebook is substituted as its code.
+
+3. EXTERNAL-MAGNET CONTROL IN SIMULATION
+I trained a DDPG-based policy in Python while MATLAB simulated the catheter mechanics and magnetic actuation. The selected 10 Hz controller was used for tip-position reaching/tracking with a fixed magnet orientation. Its saved implementation commands three external-magnet position values; the historical “2 DOF” project label refers to the evaluated tip task.
+
+4. EXPERIMENTAL TRANSFER AND ONLINE FINE-TUNING
+The physical setup combined a soft catheter with a tip magnet, a strong external magnet mounted on a six-DOF manipulator, and two cameras. I worked on stereo calibration and 3D tip tracking, implemented the trained controller and fine-tuned it online to reduce the effect of modelling errors and other uncertainties. Selected base-versus-tuned comparisons and an accelerated demonstration video are included. Saved outputs embedded in Experiment_Fine Tune.ipynb and Comparisions-Fine Tune.ipynb match the final chapter learning and tracking figures byte for byte. This identifies the best source notebooks; the exact final trained checkpoint remains unconfirmed.
+
+5. FIVE-DOF TIP POSITION AND DIRECTION CONTROL
+I extended control to the tip’s three-dimensional position and two independent direction coordinates, again using a DDPG-based policy linked to MATLAB. The exact final notebook selected here has a 19-value observation and six external-magnet velocity commands. Five task DOFs should not be confused with six magnet-action components or independent tip-roll control.
+
+6. BENCHMARKING AGENTIC CONTROL SYSTEMS
+Our team provides MPC, adaptive-controller and system-identification modules. My work is to define dynamic models and tasks, configure and run experiments, test the outputs, collect results and compare agent/model and module performance. I also build evaluation/reporting workflows. The small public SiLo training repository demonstrates my testing/reporting contribution; its agents are mocked and its supplied engine is not my sole work. Private team repositories are not reproduced here.
+
+7. SOFA AND SIMULATION
+I have worked with SOFA for catheter simulation, including beam mechanics coupled to external magnetic actuation. A compact example and existing videos are included. I am also familiar with MuJoCo; I do not claim that SOFA and MuJoCo are interchangeable or that a MuJoCo project is included.
+
+OTHER CAPABILITIES
+Python, MATLAB/Simulink, C++, Git, PyTorch-based research training, familiarity with TensorFlow, ROS 2 and Gazebo on Linux, legged-robot/multibody modelling in MSC ADAMS, SolidWorks design and PLA 3D printing, robotic-arm experiments, Arduino and ESP modules, stereo calibration/vision, Helmholtz coils, OctoMag and Hall-effect sensing. I am familiar with Kalman filtering and IMUs. English is my academic working language (B2).
+
+MSc Mechatronics, Sharif University of Technology: 18.22/20 (3.88/4.0); thesis Excellent, 20/20.
+BSc Mechanical Engineering, Shahid Beheshti University: 18.88/20 (3.90/4.0); thesis 20/20.
+
+Novi Sad, Serbia | Serbian citizen | +381653890130
+kourosh.moeini.aca@gmail.com
+https://github.com/Kourosh-Moeini
+https://www.linkedin.com/in/kourosh-moeini/
+https://scholar.google.com/citations?user=YHJffysAAAAJ&hl=en

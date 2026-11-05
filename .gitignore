@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv/
+*.log
+*.tmp
+
+# Private/local material is never part of this public export.
+**/private_core_reference/
+Review Notes/
+*.xlsx
+.env.*
+!.env.example
